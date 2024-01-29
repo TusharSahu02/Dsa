@@ -55,7 +55,7 @@ Ola, Capegemini, Virtusa, HashedIn, Housing.com, Unthinkable Soln.
 
 ### DAY: 2
 
-Total Question solved : 
+Total Question solved : 6
 <table>
 <thead>
 <tr>
@@ -153,6 +153,40 @@ Golman Sachs, Facebook, TCS, Ola, Flipkart, Oracle, Siemens, Snapdeal, more..
 </td>
 <td>
 Amazon, Redbus
+</td>
+</tr>
+
+<tr>
+<td>8</td>
+<td>Array</td>
+<td>
+<a href="https://www.codingninjas.com/studio/problems/print-pascal-s-triangle_6917910"> Print Pascal’s Triangle</a>
+</td>
+<td>
+<a href="/Day_2/8_pascals_triangle.cpp">Link</a>
+</td>
+<td>https://www.codingninjas.com/studio/problems/print-pascal-s-triangle_6917910
+<a href="https://www.youtube.com/watch?v=bR7mQgwQ_o8">Link</a>
+</td>
+<td>
+
+</td>
+</tr>
+
+<tr>
+<td>9</td>
+<td>Array</td>
+<td>
+<a href="https://www.codingninjas.com/studio/problems/next-greater-permutation_6929564">Next Permutation</a>
+</td>
+<td>
+<a href="/Day_2/9_next_permutation.cpp">Link</a>
+</td>
+<td>
+<a href="https://www.youtube.com/watch?v=JDOXKqF60RQ">Link</a>
+</td>
+<td>
+
 </td>
 </tr>
 
