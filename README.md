@@ -55,7 +55,7 @@ Ola, Capegemini, Virtusa, HashedIn, Housing.com, Unthinkable Soln.
 
 ### DAY: 2
 
-Total Question solved : 6
+Total Question solved : 7
 <table>
 <thead>
 <tr>
@@ -209,17 +209,51 @@ Total Question solved :
 </thead>
 <tbody>
 
-<!-- <tr>
+<tr>
 <td>10</td>
 <td>Array</td>
 <td>
-<a href="https://www.codingninjas.com/studio/problems/missing-and-repeating-numbers_873366">Inversion of Array</a>
+<a href="https://www.codingninjas.com/studio/problems/number-of-inversions_6840276">Inversion of Array</a>
 </td>
 <td>
-<a href="/Day_2/3_reapting_missing.cpp">Link</a>
+<a href="/Day_3/10_inversion_of_array.cpp">Link</a>
 </td>
 <td>
-<a href="https://www.youtube.com/watch?v=2D0D8HE6uak&t=1170s">Link</a>
+<a href="https://www.youtube.com/watch?v=AseUmwVNaoY">Link</a>
+</td>
+<td>
+
+</td>
+</tr>
+
+<tr>
+<td>11</td>
+<td>Array</td>
+<td>
+<a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Best time to buy and sell stock</a>
+</td>
+<td>
+<a href="/Day_3/11_stock_buy_sell.cpp">Link</a>
+</td>
+<td>
+<a href="https://www.youtube.com/watch?v=eMSfBgbiEjk">Link</a>
+</td>
+<td>
+
+</td>
+</tr>
+
+<!-- <tr>
+<td>12</td>
+<td>Array</td>
+<td>
+<a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Rotate Matrix</a>
+</td>
+<td>
+<a href="/Day_3/12_rotate_matrix.cpp">Link</a>
+</td>
+<td>
+<a href="https://www.youtube.com/watch?v=eMSfBgbiEjk">Link</a>
 </td>
 <td>
 
