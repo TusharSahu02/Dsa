@@ -165,7 +165,7 @@ Amazon, Redbus
 <td>
 <a href="/Day_2/8_pascals_triangle.cpp">Link</a>
 </td>
-<td>https://www.codingninjas.com/studio/problems/print-pascal-s-triangle_6917910
+<td>
 <a href="https://www.youtube.com/watch?v=bR7mQgwQ_o8">Link</a>
 </td>
 <td>
@@ -187,6 +187,42 @@ Amazon, Redbus
 </td>
 <td>
 
+</td>
+</tr>
+
+</tbody>
+</table>
+
+### DAY: 3
+
+Total Question solved : 
+<table>
+<thead>
+<tr>
+<th>S.no</th>
+<th>Topic</th>
+<th>Question </th>
+<th>Solution </th>
+<th>Youtube </th>
+<th>Companies</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td>10</td>
+<td>Array</td>
+<td>
+<a href="https://www.codingninjas.com/studio/problems/missing-and-repeating-numbers_873366">Inversion of Array</a>
+</td>
+<td>
+<a href="/Day_2/3_reapting_missing.cpp">Link</a>
+</td>
+<td>
+<a href="https://www.youtube.com/watch?v=2D0D8HE6uak&t=1170s">Link</a>
+</td>
+<td>
+Sharechat, Oracle, Flipkart, Amazon, Capegemini, Goldman Sachs, Nagaaro, more..
 </td>
 </tr>
 
