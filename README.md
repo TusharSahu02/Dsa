@@ -209,7 +209,7 @@ Total Question solved :
 </thead>
 <tbody>
 
-<tr>
+<!-- <tr>
 <td>10</td>
 <td>Array</td>
 <td>
@@ -222,9 +222,9 @@ Total Question solved :
 <a href="https://www.youtube.com/watch?v=2D0D8HE6uak&t=1170s">Link</a>
 </td>
 <td>
-Sharechat, Oracle, Flipkart, Amazon, Capegemini, Goldman Sachs, Nagaaro, more..
+
 </td>
-</tr>
+</tr> -->
 
 </tbody>
 </table>
