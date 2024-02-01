@@ -195,7 +195,7 @@ Amazon, Redbus
 
 ### DAY: 3
 
-Total Question solved : 
+Total Question solved : 2
 <table>
 <thead>
 <tr>
@@ -243,6 +243,8 @@ Total Question solved :
 </td>
 </tr>
 
+
+
 <!-- <tr>
 <td>12</td>
 <td>Array</td>
@@ -259,6 +261,134 @@ Total Question solved :
 
 </td>
 </tr> -->
+
+</tbody>
+</table>
+
+### DAY: 4
+
+I was inconsistance to solving the number of questions, then i decided to solve atleast 5 questions a day.
+
+Total Question solved : 6
+
+Today i solved all the Sorting techniques.
+
+<table>
+<thead>
+<tr>
+<th>S.no</th>
+<th>Topic</th>
+<th>Question </th>
+<th>Solution </th>
+<th>Youtube </th>
+<th>Companies</th>
+</tr>
+</thead>
+<tbody>
+
+
+<tr>
+<td>12</td>
+<td>Array</td>
+<td>
+<a href="https://www.codingninjas.com/studio/problems/selection-sort_624469">Selection Sort</a>
+</td>
+<td>
+<a href="/Day_4/12_selection_sort.cpp">Link</a>
+</td>
+<td>
+<a href="https://www.youtube.com/watch?v=HGk_ypEuS24">Link</a>
+</td>
+<td>
+
+</td>
+</tr> 
+
+<tr>
+<td>13</td>
+<td>Array</td>
+<td>
+<a href="https://www.codingninjas.com/studio/problems/bubble-sort_624380">Bubble Sort</a>
+</td>
+<td>
+<a href="/Day_4/13_bubble_sort.cpp">Link</a>
+</td>
+<td>
+<a href="https://www.youtube.com/watch?v=HGk_ypEuS24">Link</a>
+</td>
+<td>
+
+</td>
+</tr> 
+<tr>
+<td>14</td>
+<td>Array</td>
+<td>
+<a href="https://www.codingninjas.com/studio/problems/insertion-sort_624381">Insertion Sort</a>
+</td>
+<td>
+<a href="/Day_4/14_insertion_sort.cpp">Link</a>
+</td>
+<td>
+<a href="https://www.youtube.com/watch?v=HGk_ypEuS24">Link</a>
+</td>
+<td>
+
+</td>
+</tr> 
+
+
+<tr>
+<td>15</td>
+<td>Array</td>
+<td>
+<a href="https://www.codingninjas.com/studio/problems/merge-sort_5846">Merge Sort</a>
+</td>
+<td>
+<a href="/Day_4/15_merge_sort.cpp">Link</a>
+</td>
+<td>
+<a href="https://youtu.be/ogjf7ORKfd8">Link</a>
+</td>
+<td>
+
+</td>
+</tr> 
+
+<tr>
+<td>15</td>
+<td>Array</td>
+<td>
+<a href="https://www.codingninjas.com/studio/problems/quick-sort_5844">Quick Sort</a>
+</td>
+<td>
+<a href="/Day_4/16_QuickSort.cpp">Link</a>
+</td>
+<td>
+<a href="https://youtu.be/WIrA4YexLRQ">Link</a>
+</td>
+<td>
+
+</td>
+</tr> 
+
+<tr>
+<td>16</td>
+<td>Array</td>
+<td>
+<a href="https://www.codingninjas.com/studio/problems/linear-search_6922070">Linear Search</a>
+</td>
+<td>
+<a href="/Day_4/17_linearSearch.cpp">Link</a>
+</td>
+<td>
+<a href="https://youtu.be/wvcQg43_V8U">Link</a>
+</td>
+<td>
+
+</td>
+</tr> 
+
 
 </tbody>
 </table>
