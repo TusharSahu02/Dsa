@@ -52,6 +52,7 @@ public:
         Node *slow = head;
         Node *fast = head;
 
+        // fast != null && fast->next != null
         while (fast && fast->next)
         {
             slow = slow->next;
